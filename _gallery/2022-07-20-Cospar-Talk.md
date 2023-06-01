@@ -3,9 +3,6 @@ title: "Automated Bow Shock and Magnetopause Boundary Detection With Cassini Usi
 collection: talks
 type: "Talk"
 permalink: /talks/2022-07-20
-venue: "International Conference Centre - Megaron Athens Concert Hall"
-date: 2022-07-20
-location: "Athens, Greece"
 ---
 
 Abstract: We utilize data from the CAPS and MAG instruments onboard Cassini spacecraft to present a algorithms for automatic bow shock and magnetopause boundary detection.
