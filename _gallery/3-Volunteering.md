@@ -9,7 +9,7 @@ type: "Gallery"
 
 > Through my student journey, I always take advantage of my leisure time to participate enthusiastically in volunteering activities as I believe that giving is receiving. Not only does it also help us release pressure, but it also makes us more confident, dynamic, and broadens our useful social circles. I myself believe that these will be necessary baggage for my future steps to become a better version of myself.
 
-***Here are some pictures taken during my volunteering in CTES - Advanced Programs Volunteer Club:***
+Here are some pictures taken during my volunteering in ***CTES - Advanced Programs Volunteer Club:***
 
 <p align="center">
   <img src="/images/gallery/Volunteering/1.jpg">

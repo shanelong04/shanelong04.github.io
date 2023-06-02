@@ -4,7 +4,7 @@ collection: gallery
 type: "Gallery"
 ---
 
-***Student period memories***
+> Student period memories...
 
 
 <p align="center">
@@ -14,7 +14,7 @@ type: "Gallery"
 <center>
 My Class - Advanced Program in Biomedical Engineering
 </center>
-
+---
 
 <p align="center">
   <img src="/images/gallery/Under_student_life/2.jpg">
@@ -23,7 +23,7 @@ My Class - Advanced Program in Biomedical Engineering
 <center>
 New Student Welcome Event of SET at HUST
 </center>
-
+---
 
 <p align="center">
   <img src="/images/gallery/Under_student_life/3.jpg">
@@ -32,7 +32,7 @@ New Student Welcome Event of SET at HUST
 <center>
 22th Vietnamese Student Union Congress at HUST
 </center>
-
+---
 
 <p align="center">
   <img src="/images/gallery/Under_student_life/4.jpg">
@@ -41,7 +41,7 @@ New Student Welcome Event of SET at HUST
 <center>
 Student Union officer training
 </center>
-
+---
 
 <p align="center">
   <img src="/images/gallery/Under_student_life/5.jpg">
@@ -50,7 +50,7 @@ Student Union officer training
 <center>
 Meeting with my old high school friends
 </center>
-
+---
 
 <p align="center">
   <img src="/images/gallery/Under_student_life/6.jpg">

@@ -10,7 +10,8 @@ type: "Gallery"
 <b> My youth's journey in various gorgeous places in Vietnam </b>
 </center>
 
-*Ha Giang 
+
+* Ha Giang 
 
 <p align="center">
   <img src="/images/gallery/Travel/1.jpg">
@@ -23,8 +24,9 @@ type: "Gallery"
 <p align="center">
   <img src="/images/gallery/Travel/3.jpg">
 </p>
+---
 
-*Cao Bang
+* Cao Bang
 
 <p align="center">
   <img src="/images/gallery/Travel/4.jpg">
@@ -45,8 +47,9 @@ type: "Gallery"
 <p align="center">
   <img src="/images/gallery/Travel/8.jpg">
 </p>
+---
 
-*Ba Vi
+* Ba Vi
 
 <p align="center">
   <img src="/images/gallery/Travel/9.jpg">
@@ -55,8 +58,9 @@ type: "Gallery"
 <p align="center">
   <img src="/images/gallery/Travel/10.jpg">
 </p>
+---
 
-*Hoa Binh
+* Hoa Binh
 
 <p align="center">
   <img src="/images/gallery/Travel/11.jpg">
@@ -69,8 +73,9 @@ type: "Gallery"
 <p align="center">
   <img src="/images/gallery/Travel/13.jpg">
 </p>
+---
 
-*Tam Dao
+* Tam Dao
 
 <p align="center">
   <img src="/images/gallery/Travel/14.jpg">
@@ -79,8 +84,9 @@ type: "Gallery"
 <p align="center">
   <img src="/images/gallery/Travel/15.jpg">
 </p>
+---
 
-*Ninh Binh
+* Ninh Binh
 
 <p align="center">
   <img src="/images/gallery/Travel/16.jpg">
@@ -89,14 +95,16 @@ type: "Gallery"
 <p align="center">
   <img src="/images/gallery/Travel/17.jpg">
 </p>
+---
 
-*Hai Phong
+* Hai Phong
 
 <p align="center">
   <img src="/images/gallery/Travel/18.jpg">
 </p>
+---
 
-*Camping in suburban
+* Camping in suburban
 
 <p align="center">
   <img src="/images/gallery/Travel/19.jpg">
