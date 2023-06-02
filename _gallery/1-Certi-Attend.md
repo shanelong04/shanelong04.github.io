@@ -6,6 +6,7 @@ type: "Gallery"
 
 ***Certifications I have achieved and events I have a chance to participate***
 
+
 <p align="center">
   <img src="/images/gallery/C&A/1.jpg">
 </p>
@@ -13,6 +14,7 @@ type: "Gallery"
 <center>
 Participated in RIVF2022 - 16th International Conference on Computing and Communication Technologies, organized in Ho Chi Minh City, Vietnam
 </center>
+
 
 <p align="center">
   <img src="/images/gallery/C&A/2.jpg">
@@ -22,6 +24,7 @@ Participated in RIVF2022 - 16th International Conference on Computing and Commun
 Presented my paper at RIVF2022
 </center>
 
+
 <p align="center">
   <img src="/images/gallery/C&A/3.jpg">
 </p>
@@ -29,6 +32,7 @@ Presented my paper at RIVF2022
 <center>
 Presented my paper at ICISN2023 - International Conference on Intelligent Systems & Networks, organized in Hanoi City, Vietnam
 </center>
+
 
 <p align="center">
   <img src="/images/gallery/C&A/4.jpg">
@@ -38,6 +42,7 @@ Presented my paper at ICISN2023 - International Conference on Intelligent System
 Completing successfully AI Intership Program at Samsung Display Vietnam 
 </center>
 
+
 <p align="center">
   <img src="/images/gallery/C&A/5.jpg">
 </p>
@@ -46,11 +51,12 @@ Completing successfully AI Intership Program at Samsung Display Vietnam
 My first working day at SDV
 </center>
 
+
 <p align="center">
   <img src="/images/gallery/C&A/6.jpg">
 </p>
 
 <center>
-Paticipated in AI Day 2022 - Empower the future, orgarnized by VinAI, Vietnam 
+Attended in AI Day 2022 - Empower the future, orgarnized by VinAI, Vietnam 
 </center>
 
