@@ -1,7 +1,7 @@
 ---
-title: "Travel"
+title: "Volunteering"
 collection: gallery
 type: "Gallery"
 ---
 
-**This is my youth's journey**
+***"Alone we can do so little; together we can do so much." – Helen Keller***

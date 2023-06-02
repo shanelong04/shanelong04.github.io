@@ -4,4 +4,4 @@ collection: gallery
 type: "Gallery"
 ---
 
-**This is my youth's journey**
+***My youth's journey***

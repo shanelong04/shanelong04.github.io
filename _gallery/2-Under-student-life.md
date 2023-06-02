@@ -1,7 +1,7 @@
 ---
-title: "Travel"
+title: "Student Life"
 collection: gallery
 type: "Gallery"
 ---
 
-**This is my youth's journey**
+***Student period memories***

@@ -1,5 +1,5 @@
 ---
-title: "Machine Learning Portfolio"
+title: "Collection of Portfolios"
 excerpt: "My several projects are available on [Github](https://github.com/shanelong04)"
 collection: portfolio
 ---
