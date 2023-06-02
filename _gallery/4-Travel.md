@@ -14,56 +14,56 @@ type: "Gallery"
 * Ha Giang 
 
 <p align="center">
-  <img src="/images/gallery/Travel/1.jpg">
+  <img src="/images/gallery/Travel/1.JPG">
 </p>
 
 <p align="center">
-  <img src="/images/gallery/Travel/2.jpg">
+  <img src="/images/gallery/Travel/2.JPG">
 </p>
 
 <p align="center">
-  <img src="/images/gallery/Travel/3.jpg">
+  <img src="/images/gallery/Travel/3.JPG">
 </p>
 ---
 
 * Cao Bang
 
 <p align="center">
-  <img src="/images/gallery/Travel/4.jpg">
+  <img src="/images/gallery/Travel/4.JPG">
 </p>
 
 <p align="center">
-  <img src="/images/gallery/Travel/5.jpg">
+  <img src="/images/gallery/Travel/5.JPG">
 </p>
 
 <p align="center">
-  <img src="/images/gallery/Travel/6.jpg">
+  <img src="/images/gallery/Travel/6.JPG">
 </p>
 
 <p align="center">
-  <img src="/images/gallery/Travel/7.jpg">
+  <img src="/images/gallery/Travel/7.JPG">
 </p>
 
 <p align="center">
-  <img src="/images/gallery/Travel/8.jpg">
+  <img src="/images/gallery/Travel/8.JPG">
 </p>
 ---
 
 * Ba Vi
 
 <p align="center">
-  <img src="/images/gallery/Travel/9.jpg">
+  <img src="/images/gallery/Travel/9.JPG">
 </p>
 
 <p align="center">
-  <img src="/images/gallery/Travel/10.jpg">
+  <img src="/images/gallery/Travel/10.JPG">
 </p>
 ---
 
 * Hoa Binh
 
 <p align="center">
-  <img src="/images/gallery/Travel/11.jpg">
+  <img src="/images/gallery/Travel/11.JPG">
 </p>
 
 <p align="center">
@@ -71,7 +71,7 @@ type: "Gallery"
 </p>
 
 <p align="center">
-  <img src="/images/gallery/Travel/13.jpg">
+  <img src="/images/gallery/Travel/13.JPG">
 </p>
 ---
 
@@ -89,7 +89,7 @@ type: "Gallery"
 * Ninh Binh
 
 <p align="center">
-  <img src="/images/gallery/Travel/16.jpg">
+  <img src="/images/gallery/Travel/16.JPG">
 </p>
 
 <p align="center">
@@ -107,7 +107,7 @@ type: "Gallery"
 * Camping in suburban
 
 <p align="center">
-  <img src="/images/gallery/Travel/19.jpg">
+  <img src="/images/gallery/Travel/19.JPG">
 </p>
 
 <p align="center">

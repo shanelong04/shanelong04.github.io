@@ -10,11 +10,11 @@ type: "Gallery"
 > A dreamer with great aspirations in the big world...
 
 <p align="center">
-  <img src="/images/gallery/Photography/1.jpg">
+  <img src="/images/gallery/Photography/1.JPG">
 </p>
 
 <p align="center">
-  <img src="/images/gallery/Photography/2.jpg">
+  <img src="/images/gallery/Photography/2.JPG">
 </p>
 
 <p align="center">

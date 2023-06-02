@@ -26,7 +26,7 @@ New Student Welcome Event of SET at HUST
 ---
 
 <p align="center">
-  <img src="/images/gallery/Under_student_life/3.jpg">
+  <img src="/images/gallery/Under_student_life/3.JPG">
 </p>
 
 <center>
@@ -35,7 +35,7 @@ New Student Welcome Event of SET at HUST
 ---
 
 <p align="center">
-  <img src="/images/gallery/Under_student_life/4.jpg">
+  <img src="/images/gallery/Under_student_life/4.JPG">
 </p>
 
 <center>

@@ -32,16 +32,16 @@ Here are some pictures taken during my volunteering in ***Advanced Programs Volu
 </p>
 
 <p align="center">
-  <img src="/images/gallery/Volunteering/6.jpg">
+  <img src="/images/gallery/Volunteering/6.JPG">
 </p>
 
 <p align="center">
-  <img src="/images/gallery/Volunteering/7.jpg">
+  <img src="/images/gallery/Volunteering/7.JPG">
 </p>
 
 <p align="center">
-  <img src="/images/gallery/Volunteering/8.jpg">
+  <img src="/images/gallery/Volunteering/8.JPG">
 
 <p align="center">
-  <img src="/images/gallery/Volunteering/9.jpg">">
+  <img src="/images/gallery/Volunteering/9.JPG">">
 </p>
