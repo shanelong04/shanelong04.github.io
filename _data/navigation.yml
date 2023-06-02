@@ -6,11 +6,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Teaching"
-    url: /teaching/
-
   - title: "Porfolio"
-    url: /porfolio/
+    url: /portfolio/
 
   - title: "Gallery"
     url: /gallery/
