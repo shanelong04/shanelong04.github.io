@@ -30,7 +30,7 @@ New Student Welcome Event of SET at HUST
 </p>
 
 <center>
-22th Vietnamese Student Union Congress at HUST
+22nd Vietnamese Student Union Congress at HUST
 </center>
 ---
 
