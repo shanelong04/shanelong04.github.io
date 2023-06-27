@@ -4,7 +4,7 @@ collection: gallery
 type: "Gallery"
 ---
 
-***a collection of photographs that are beautiful in my eyes***
+***A collection of photographs that are beautiful in my eyes***
 
 
 > A dreamer with great aspirations in the big world...

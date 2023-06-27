@@ -9,22 +9,22 @@ type: "Gallery"
 
 > Through my student journey, I always take advantage of my leisure time to participate enthusiastically in volunteering activities as I believe that giving is receiving. Not only does it also help us release pressure, but it also makes us more confident, dynamic, and broadens our useful social circles. These will be necessary baggage for my future steps to become a better version of myself.
 
-Here are some pictures taken during my volunteering in ***Advanced Programs Volunteer Club - [CTES](https://www.facebook.com/tinhnguyenctes):*** as Head of External Affairs Department:
+Here are some pictures taken during my volunteering in ***Advanced Programs Volunteer Club - [CTES](https://www.facebook.com/tinhnguyenctes)*** as Head of External Affairs Department:
 
 <p align="center">
   <img src="/images/gallery/Volunteering/1.jpg">
 </p>
 
 <p align="center">
-  <img src="/images/gallery/Volunteering/2.jpg">
+  <img src="/images/gallery/Volunteering/2.JPG">
 </p>
   
 <p align="center">
-  <img src="/images/gallery/Volunteering/3.jpg">
+  <img src="/images/gallery/Volunteering/3.JPG">
 </p>
 
 <p align="center">
-  <img src="/images/gallery/Volunteering/4.jpg">
+  <img src="/images/gallery/Volunteering/4.JPG">
 </p>
 
 <p align="center">
@@ -44,13 +44,13 @@ Here are some pictures taken during my volunteering in ***Advanced Programs Volu
 </p>
 
 <p align="center">
-  <img src="/images/gallery/Volunteering/7.jpg">
+  <img src="/images/gallery/Volunteering/7.JPG">
 </p>
 
 <p align="center">
-  <img src="/images/gallery/Volunteering/8.jpg">
+  <img src="/images/gallery/Volunteering/8.JPG">
 </p>
 
 <p align="center">
-  <img src="/images/gallery/Volunteering/9.jpg">
+  <img src="/images/gallery/Volunteering/9.JPG">
 </p>

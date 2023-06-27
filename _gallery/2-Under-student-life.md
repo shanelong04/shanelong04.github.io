@@ -26,7 +26,7 @@ New Student Welcome Event of SET at HUST
 ---
 
 <p align="center">
-  <img src="/images/gallery/Under_student_life/3.jpg">
+  <img src="/images/gallery/Under_student_life/3.JPG">
 </p>
 
 <center>
@@ -53,11 +53,11 @@ Student Union Officer Training
 ---
 
 <p align="center">
-  <img src="/images/gallery/Under_student_life/5.JPG">
+  <img src="/images/gallery/Under_student_life/5.jpg">
 </p>
 
 <center>
-Representatives from different departments of the Student Union
+Representatives from different departments of the HUST' Student Union
 </center>
 ---
 

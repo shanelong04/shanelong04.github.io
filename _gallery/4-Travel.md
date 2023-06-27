@@ -11,7 +11,7 @@ type: "Gallery"
 </center>
 
 
-* Ha Giang 
+* **Ha Giang**
 
 <p align="center">
   <img src="/images/gallery/Travel/1.JPG">
@@ -26,7 +26,7 @@ type: "Gallery"
 </p>
 ---
 
-* Cao Bang
+* **Cao Bang**
 
 <p align="center">
   <img src="/images/gallery/Travel/4.JPG">
@@ -49,7 +49,7 @@ type: "Gallery"
 </p>
 ---
 
-* Ba Vi
+* **Ba Vi**
 
 <p align="center">
   <img src="/images/gallery/Travel/9.JPG">
@@ -60,7 +60,7 @@ type: "Gallery"
 </p>
 ---
 
-* Hoa Binh
+* **Hoa Binh**
 
 <p align="center">
   <img src="/images/gallery/Travel/11.JPG">
@@ -75,7 +75,7 @@ type: "Gallery"
 </p>
 ---
 
-* Tam Dao
+* **Tam Dao**
 
 <p align="center">
   <img src="/images/gallery/Travel/14.jpg">
@@ -86,7 +86,7 @@ type: "Gallery"
 </p>
 ---
 
-* Ninh Binh
+* **Ninh Binh**
 
 <p align="center">
   <img src="/images/gallery/Travel/16.JPG">
@@ -97,14 +97,14 @@ type: "Gallery"
 </p>
 ---
 
-* Hai Phong
+* **Hai Phong**
 
 <p align="center">
   <img src="/images/gallery/Travel/18.jpg">
 </p>
 ---
 
-* Camping in suburban
+* **Camping in suburban**
 
 <p align="center">
   <img src="/images/gallery/Travel/19.JPG">
