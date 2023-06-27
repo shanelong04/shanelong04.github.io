@@ -17,4 +17,8 @@ Nói thì dễ, làm thì khó nhưng chúng ta đang đề cập đến thái �
 
 Luôn có một cách tốt hơn cho mọi điều, hãy tìm nó - một thái độ tích cực chẳng hạn 🤯. Nhưng đừng biến nó thành cách giải quyết, hãy biến nó thành cách sống, hãy luôn để nụ cười nở trên môi bạn 😉
 
+<p align="center">
+  <img src="/images/blog/blog_1/1.jpg">
+</p>
+
 > *"Cuộc sống của chúng ta là sự phản ánh của thái độ chúng ta . Một thái độ tích cực sẽ là một nam châm thu hút những kết quả tốt đẹp."*
