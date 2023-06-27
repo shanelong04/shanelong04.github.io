@@ -39,7 +39,7 @@ Presented my paper at ICISN2023 - International Conference on Intelligent System
 </p>
 
 <center>
-Completing successfully AI Intership Program at Samsung Display Vietnam 
+Completing successfully AI Internship Program at Samsung Display Vietnam 
 </center>
 ---
 

@@ -4,7 +4,7 @@ collection: gallery
 type: "Gallery"
 ---
 
-> Student period memories...
+> Memorable student activities...
 
 
 <p align="center">
@@ -26,7 +26,7 @@ New Student Welcome Event of SET at HUST
 ---
 
 <p align="center">
-  <img src="/images/gallery/Under_student_life/3.JPG">
+  <img src="/images/gallery/Under_student_life/3.jpg">
 </p>
 
 <center>
@@ -35,16 +35,52 @@ New Student Welcome Event of SET at HUST
 ---
 
 <p align="center">
-  <img src="/images/gallery/Under_student_life/4.JPG">
+  <img src="/images/gallery/Under_student_life/3_.JPG">
 </p>
 
 <center>
-Student Union officer training
+Prize for Student of five merits
 </center>
 ---
 
 <p align="center">
-  <img src="/images/gallery/Under_student_life/5.jpg">
+  <img src="/images/gallery/Under_student_life/4.JPG">
+</p>
+
+<center>
+Student Union Officer Training
+</center>
+---
+
+<p align="center">
+  <img src="/images/gallery/Under_student_life/5.JPG">
+</p>
+
+<center>
+Representatives from different departments of the Student Union
+</center>
+---
+
+<p align="center">
+  <img src="/images/gallery/Under_student_life/5_.jpg">
+</p>
+
+<center>
+CTES presentative receives financial support for volunteering activities from Namcharm company via the cooperation in Madaz competition
+</center>
+---
+
+<p align="center">
+  <img src="/images/gallery/Under_student_life/6.jpg">
+</p>
+
+<center>
+Attending the 29th Vietnam International Medical and Pharmaceutical Exhibition with my class
+</center>
+---
+
+<p align="center">
+  <img src="/images/gallery/Under_student_life/6_.jpg">
 </p>
 
 <center>
@@ -53,7 +89,7 @@ Meeting with my old high school friends
 ---
 
 <p align="center">
-  <img src="/images/gallery/Under_student_life/6.jpg">
+  <img src="/images/gallery/Under_student_life/7.jpg">
 </p>
 
 <center>

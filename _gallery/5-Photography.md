@@ -22,6 +22,10 @@ type: "Gallery"
 </p>
 
 <p align="center">
+  <img src="/images/gallery/Photography/3_.jpg">
+</p>
+
+<p align="center">
   <img src="/images/gallery/Photography/4.jpg">
 </p>
 
