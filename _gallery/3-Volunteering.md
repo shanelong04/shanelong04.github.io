@@ -32,7 +32,7 @@ Here are some pictures taken during my volunteering in ***Advanced Programs Volu
 </p>
 
 <p align="center">
-  <img src="/images/gallery/Volunteering/5.JPG">
+  <img src="/images/gallery/Volunteering/5.jpg">
 </p>
 
 <p align="center">

@@ -66,7 +66,7 @@ Representatives from different departments of the HUST' Student Union
 </p>
 
 <center>
-CTES presentative receives financial support for volunteering activities from Namcharm company via the cooperation in Madaz competition
+CTES presentative received financial support for volunteering activities from Namcharm company through the joint cooperation in the Mazda competition
 </center>
 ---
 
@@ -75,7 +75,7 @@ CTES presentative receives financial support for volunteering activities from Na
 </p>
 
 <center>
-Attending the 29th Vietnam International Medical and Pharmaceutical Exhibition with my class
+Attending the 29th Vietnam International Medical and Pharmaceutical Exhibition with my Class
 </center>
 ---
 
