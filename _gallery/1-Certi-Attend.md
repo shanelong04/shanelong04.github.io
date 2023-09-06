@@ -35,6 +35,15 @@ Presented my paper at ICISN2023 - International Conference on Intelligent System
 ---
 
 <p align="center">
+  <img src="/images/gallery/C&A/3_.jpg">
+</p>
+
+<center>
+Participanted in 6th International Summer School at Duy Tan University, Da Nang
+</center>
+---
+
+<p align="center">
   <img src="/images/gallery/C&A/4.jpg">
 </p>
 
